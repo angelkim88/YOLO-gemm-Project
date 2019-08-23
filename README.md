@@ -1,4 +1,4 @@
-penBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. Please read the documents on OpenBLAS wiki.
+OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. Please read the documents on OpenBLAS wiki.
 
 Binary Packages
 
